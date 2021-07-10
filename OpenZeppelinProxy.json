@@ -1,6 +1,6 @@
 [
 	{
-		"constant": false,
+		"constant": true,
 		"inputs": [],
 		"name": "getImplementation",
 		"outputs": [
@@ -10,7 +10,7 @@
 			}
 		],
 		"payable": false,
-		"stateMutability": "nonpayable",
+		"stateMutability": "view",
 		"type": "function"
 	}
 ]
