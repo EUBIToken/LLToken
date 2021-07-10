@@ -1,0 +1,16 @@
+[
+	{
+		"constant": false,
+		"inputs": [],
+		"name": "getImplementation",
+		"outputs": [
+			{
+				"name": "",
+				"type": "address"
+			}
+		],
+		"payable": false,
+		"stateMutability": "nonpayable",
+		"type": "function"
+	}
+]
